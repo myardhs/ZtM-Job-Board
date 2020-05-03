@@ -12018,6 +12018,22 @@
       "state": "Greater Poland",
       "country": "Poland"
     }
+},
+    {
+    "id": 842,
+    "name": "Muhammad Yasin Ardhi Sawal",
+    "img": "https://lh3.googleusercontent.com/-NE0BfqKi9SU/XS3eAKNG7eI/AAAAAAAAABc/1acYSKs8d9YU_VTOxvwkPsAJIyrHXHHfQCEwYBhgL/w139-h140-p/Muh.%2BYasin%2BArdhi%2BS.jpg",
+    "links": {
+      "website": "https://myardhs.github.io/",
+      "linkedin": "linkedin.com/in/myardhs",
+      "github": "https://github.com/myardhs"
+    },
+    "jobTitle": "Looking for Javascript Developer Jobs or Projects",
+    "location": {
+      "city": "Jakarta",
+      "state": "Indonesia",
+      "country": "Indonesia"
+    }
 }
   ]
 }
